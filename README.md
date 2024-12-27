@@ -11,4 +11,4 @@ With a deep passion for **NLP applications** like building Generative AI-integra
 
 #### It's great to connect with you on LinkedIn and Kaggle 💙
 
-[![Linkedin: kefahalshaer](https://img.shields.io/badge/kefahalshaer-white?logo=linkedin&logoColor=%230A66C2&link=https://www.linkedin.com/in/kefahalshaer/)](https://www.linkedin.com/in/kefahalshaer/) [![Kaggle kefahaied](https://img.shields.io/badge/kefahaied-white?logo=kaggle&logoColor=%2320BEFF)](https://www.kaggle.com/kefahaied)
+[![Kaggle kefahaied](https://img.shields.io/badge/kefahaied-white?logo=kaggle&logoColor=%2320BEFF)](https://www.kaggle.com/kefahaied)
