@@ -9,6 +9,6 @@
 
 With a deep passion for **NLP applications** like building Generative AI-integrated products, and I am also interested in working with visual datasets. I'm working now as a **Machine Learning Engineer on Upwork**, and got the **Kaggle bronze medals** for developing a recommendation system and forecasting for a bike-share system.
 
-#### It's great to connect with you on LinkedIn and Kaggle 💙
+#### It'd be great to have you on Kaggle 💙
 
 [![Kaggle kefahaied](https://img.shields.io/badge/kefahaied-white?logo=kaggle&logoColor=%2320BEFF)](https://www.kaggle.com/kefahaied)
